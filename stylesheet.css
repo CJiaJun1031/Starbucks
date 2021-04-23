@@ -1,0 +1,32 @@
+/* navigation bar */
+
+nav{
+  height: 100px;
+}
+
+.nav-item{
+  padding: 20px 10px 10px 10px;
+  font-size: 15px;
+}
+
+.logo{
+  padding: 15px;
+}
+
+.cart_logo{
+  margin-left: 420px;
+  font-size: 18px;
+
+}
+
+/* carousel */
+
+.carousel{
+  width: auto;
+}
+
+/* index pic */
+
+.sampleimg{
+  width: 1300px;
+}

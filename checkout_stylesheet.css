@@ -1,0 +1,85 @@
+/* navigation bar */
+nav {
+  height: 100px;
+}
+
+.nav-item {
+  padding: 20px 10px 10px 10px;
+  font-size: 15px;
+}
+
+.logo {
+  padding: 15px;
+}
+
+.cart_logo {
+  margin-left: 420px;
+  font-size: 18px;
+}
+
+/* payment and my bag*/
+
+.checkout_title{
+  margin-left: 20px;
+}
+.mybag {
+  padding-left: 30px;
+  margin-top: 30px;
+}
+
+.payment {
+  height: 870px;
+  width: 520px;
+  margin-top: 70px;
+  background-color: #f8f5f1;
+  padding-top: 30px;
+  margin-bottom: 50px;
+
+}
+
+hr {
+  width: 700px;
+  margin-left: 20px;
+
+}
+
+
+.checkoutcontent{
+
+  width: 500px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+
+input{
+  width: 400px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.small{
+  width: 150px;
+  margin-left: 0;
+  margin-top: 10px;
+
+}
+
+label{
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+.end{
+  width: 350px;
+  padding-left: 20px;
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* footer */
+
+.footer{
+  width: 1300px;
+}

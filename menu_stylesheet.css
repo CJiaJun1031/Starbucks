@@ -1,0 +1,53 @@
+/* navigation bar */
+
+nav{
+  height: 100px;
+}
+
+.nav-item{
+  padding: 20px 10px 10px 10px;
+  font-size: 15px;
+}
+
+.logo{
+  padding: 15px;
+}
+
+.cart_logo{
+  margin-left: 420px;
+  font-size: 18px;
+
+}
+
+/* carousel */
+
+.carousel{
+  width: 900px;
+  margin: 40px 20px;
+}
+
+.latte{
+  width: 300px;
+  margin-top: 20px;
+}
+
+.frappucino{
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+/* Recommended */
+
+.space{
+  padding: 14px;
+}
+
+.recommend_title{
+  padding-left: 20px;
+}
+
+/* footer */
+
+.footer{
+  width: 1300px;
+}
